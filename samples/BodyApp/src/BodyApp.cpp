@@ -34,6 +34,7 @@
 * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 * 
 */
+#define NOMINMAX
 
 #include "cinder/app/App.h"
 #include "cinder/params/Params.h"
